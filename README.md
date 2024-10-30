@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on vs code
-- 📫 How to reach me through discord - helloworldz
+- 📫 How to reach me through discord - codingismypassion
 
 <!---
 helloworldz0/helloworldz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
